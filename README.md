@@ -11,3 +11,5 @@ Safari - [Tampermonkey](https://safari.tampermonkey.net/tampermonkey.safariextz)
 
 2. [Install Facebook Killer Script](http://raw.githubusercontent.com/CometCoder/facebook-killer/master/FacebookKiller.user.js)
 3. Reboot browser and enjoy Facebook without all the "Sign In/Sign Up" popups
+
+#Before
