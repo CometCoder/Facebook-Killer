@@ -13,3 +13,8 @@ Safari - [Tampermonkey](https://safari.tampermonkey.net/tampermonkey.safariextz)
 3. Reboot browser and enjoy Facebook without all the "Sign In/Sign Up" popups
 
 #Before
+<img src="https://dl.dropboxusercontent.com/s/j1gf46aay5x4adb/before.PNG?dl=1">
+<br>
+
+#After
+<img src="https://dl.dropboxusercontent.com/s/fxjzchebz7dyvl8/after.PNG?dl=1">
