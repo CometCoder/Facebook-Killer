@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         FacebookKiller
-// @namespace    http://tampermonkey.net/
+// @namespace    http://github.com/CometCoder
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Facebook Sign in/Sign up popup killer
+// @author       CometCoder
 // @match http://*.facebook.com/*
 // @match https://*.facebook.com/*
 // @grant unsafeWindow
