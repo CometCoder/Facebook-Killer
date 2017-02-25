@@ -9,5 +9,5 @@ Opera - [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-
 Microsoft Edge - [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 Safari - [Tampermonkey](https://safari.tampermonkey.net/tampermonkey.safariextz)
 
-2. [Install Facebook Killer Script](http://raw.githubusercontent.com/CometCoder/facebook-killer/master/FacebookKiller.user.js)
+
 3. Reboot browser and enjoy Facebook without all the "Sign In/Sign Up" popups
