@@ -1,5 +1,5 @@
 # Facebook-Killer
-Allows you to browse Facebook online without all the annoying "Sign In/Sign Up" popups
+Allows you to browse Facebook signed out without all the annoying "Sign In/Sign Up" popups
 
 #Install Instructions
 1. Install Script Manager<br>
