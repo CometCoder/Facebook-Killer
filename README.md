@@ -1,7 +1,7 @@
 # Facebook-Killer
 Allows you to browse Facebook signed out without all the annoying "Sign In/Sign Up" popups
 
-#Install Instructions
+# Install Instructions
 1. Install Script Manager<br>
 Google Chrome - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)<br>
 Firefox - [GreaseMonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)<br>
@@ -12,9 +12,9 @@ Safari - [Tampermonkey](https://safari.tampermonkey.net/tampermonkey.safariextz)
 2. [Install Facebook Killer Script](http://raw.githubusercontent.com/CometCoder/facebook-killer/master/FacebookKiller.user.js)
 3. Reboot browser and enjoy Facebook minus all the "Sign In/Sign Up" popups
 
-#Before
+# Before
 <img src="https://dl.dropboxusercontent.com/s/j1gf46aay5x4adb/before.PNG?dl=1">
 <br>
 
-#After
+# After
 <img src="https://dl.dropboxusercontent.com/s/fxjzchebz7dyvl8/after.PNG?dl=1">
