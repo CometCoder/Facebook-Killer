@@ -28,7 +28,6 @@
 (function() {
     'use strict';
     window.setInterval(function() {
-        //document.getElementById('expanding_cta_close_button').click();
         document.getElementsByClassName('_4-u2 _5hni _4-u8')[0].style.display = 'none';
         document.getElementsByClassName('_5hn6')[0].style.display = 'none';
         document.getElementsByClassName('_4-u2 _5hnd _4-u8')[0].style.display = 'none';
