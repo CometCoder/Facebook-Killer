@@ -31,5 +31,6 @@
         document.getElementsByClassName('_4-u2 _5hni _4-u8')[0].style.display = 'none';
         document.getElementsByClassName('_5hn6')[0].style.display = 'none';
         document.getElementsByClassName('_4-u2 _5hnd _4-u8')[0].style.display = 'none';
+        $('generic_dialog pop_dialog generic_dialog_modal').remove();
     }, 2000);
 })();
