@@ -6,6 +6,7 @@
 // @author       CometCoder
 // @match http://*.facebook.com/*
 // @match https://*.facebook.com/*
+// @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @grant unsafeWindow
 // @grant GM_addStyle
 // @grant GM_getValue
@@ -24,13 +25,10 @@
 // @run-at document-end
 // @connect *
 // ==/UserScript==
-
 (function() {
     'use strict';
-    window.setInterval(function() {
-        document.getElementsByClassName('_4-u2 _5hni _4-u8')[0].style.display = 'none';
-        document.getElementsByClassName('_5hn6')[0].style.display = 'none';
-        document.getElementsByClassName('_4-u2 _5hnd _4-u8')[0].style.display = 'none';
-        $('generic_dialog pop_dialog generic_dialog_modal').remove();
-    }, 2000);
+    window.addEventListener('load', function() {
+        document.getElementsByClassName('timelineLoggedOutSignUpDesktopCtaNewDesignCoverResize')[0].remove()
+        document.getElementsByClassName('generic_dialog')[0].remove()
+    }, false);
 })();
